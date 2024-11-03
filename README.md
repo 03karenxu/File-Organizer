@@ -13,6 +13,7 @@ Program written in Perl to organize files in a given directory into folders base
 
 Run program with the following command:
 
+'''bash
   perl file_organizer.pl
 
 User will then be prompted to type in the path to the desired directory.
