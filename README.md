@@ -15,7 +15,7 @@ Run program with the following command:
 
 '''bash
   perl file_organizer.pl
-
+'''
 User will then be prompted to type in the path to the desired directory.
 
 **OUTPUT:**
